@@ -2,5 +2,5 @@
 
 
 
-algorithm- RandomForestRegressor
-buld website -Flask web fram
+Algorithm- Random Forest Regressor
+Build a website using the Flask web framework
