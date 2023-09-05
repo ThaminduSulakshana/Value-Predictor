@@ -7,5 +7,10 @@ This repository contains a web application that predicts the value of vehicles u
 ![alt text](https://github.com/ThaminduSulakshana/Vehicle-Value-Predictor/blob/main/capture.png?raw=true)
 
 [capture.pnghttps://github.com/ThaminduSulakshana/Value-Predictor/blob/main/capture.png](https://github.com/ThaminduSulakshana/Value-Predictor/blob/main/capture.png)https://github.com/ThaminduSulakshana/Value-Predictor/blob/main/capture.png
+
+
 https://github.com/ThaminduSulakshana/Value-Predictor/blob/main/capture.png
+
+![Image Alt Text](https://raw.githubusercontent.com/ThaminduSulakshana/Value-Predictor/main/capture.png)
+
 
